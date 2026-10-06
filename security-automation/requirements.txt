@@ -1,0 +1,2 @@
+# The orchestration script itself uses Python standard library only.
+# Install the external security tools separately as documented in README.md.
